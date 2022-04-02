@@ -38,7 +38,7 @@ button {
 #Button1 {
     background:lightblue;
 }
-#Button1:active, #Button2.lit{
+#Button1:active, #Button1.lit{
     background:blue;
 }
 #Button2 {
