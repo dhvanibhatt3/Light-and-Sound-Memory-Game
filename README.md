@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://github.com/dhvanibhatt3/Light-and-Sound-Memory-Game/blob/main/my_walkthroughgame1.gif)
-![](gif2-link-here)
+![](https://github.com/dhvanibhatt3/Light-and-Sound-Memory-Game/blob/main/my_walkthroughgame2.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
