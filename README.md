@@ -71,7 +71,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://github.com/dhvanibhatt3/Light-and-Sound-Memory-Game/blob/main/video3763738453%20(1).mov)
 
 
 ## License
